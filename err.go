@@ -20,7 +20,7 @@ package cranetoolkit
 import (
 	"fmt"
 
-	"github.com/1daidai1/CraneSched-FrontEnd/cranetoolkit/generated/protos"
+	"github.com/1daidai1/cranetoolkit/generated/protos"
 )
 
 type CraneCmdError = int

@@ -27,7 +27,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/1daidai1/CraneSched-FrontEnd/cranetoolkit/generated/protos"
+	"github.com/1daidai1/cranetoolkit/generated/protos"
 
 	log "github.com/sirupsen/logrus"
 	"google.golang.org/grpc"

@@ -22,7 +22,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/1daidai1/CraneSched-FrontEnd/cranetoolkit/generated/protos"
+	"github.com/1daidai1/cranetoolkit/generated/protos"
 
 	"github.com/1daidai1/CraneSched-FrontEnd/api"
 )

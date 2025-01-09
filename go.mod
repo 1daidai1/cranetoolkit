@@ -1,4 +1,4 @@
-module github.com/1daidai1/CraneSched-FrontEnd/cranetoolkit
+module github.com/1daidai1/cranetoolkit
 
 go 1.23.3
 
